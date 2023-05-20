@@ -18,7 +18,7 @@ export default function Shorts() {
     <div className="shorts-container">
         <div className="title">
             <div className="logo">
-            <img src="/src/imgs/Youtube_shorts_icon.svg.png" alt="" />
+            <img src="/imgs/Youtube_shorts_icon.svg.png" alt="" />
             <span>Shorts</span>
             </div>
             <a href="#" className="not-interested"><i className="fa-solid fa-xmark fa-lg"></i></a>
