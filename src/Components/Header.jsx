@@ -15,7 +15,7 @@ export default function Header(props) {
             <div className="bar3"></div>
         </a>
         </div>
-        <a href="#"><img className="logo" src="src/imgs/youtube-logo.png" alt="" /></a>
+        <a href="#"><img className="logo" src="/imgs/youtube-logo.png" alt="" /></a>
         </div>
         <div className="mid-section">
           <div className="search-container">
@@ -27,7 +27,7 @@ export default function Header(props) {
         <div className="right-section">
             <a href="#" className="add-video icons" ><i className="fa-solid fa-video fa-lg"></i></a>
             <a href="#" className="notifications-bell icons bell"><i className="fa-regular fa-bell fa-lg"></i> <span className="notifications">9+</span></a>
-            <a href="#" className="profile-pic"><img src="src/imgs/unnamed.jpg" alt="" /></a>
+            <a href="#" className="profile-pic"><img src="/imgs/unnamed.jpg" alt="" /></a>
         </div>
       </div>
     </header>
